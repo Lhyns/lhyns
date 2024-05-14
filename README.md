@@ -3,7 +3,7 @@
 
 
 
-## Quick Fun Facts
+## Quick Fun Facts:
 
 - 🔭 I’m currently working on a project to gain experience in the field 
 - 🌱 I’m currently learning about all the different tools available to beginners like myself
