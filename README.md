@@ -1,9 +1,9 @@
 # About me!
 
 
-**Lhyns/lhyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+## Quick Fun Facts
 
 - 🔭 I’m currently working on a project to gain experience in the field 
 - 🌱 I’m currently learning about all the different tools available to beginners like myself
